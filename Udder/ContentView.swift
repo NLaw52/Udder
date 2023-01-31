@@ -13,6 +13,8 @@ struct ContentView: View {
             Text("Udder")
                 .font(.title)
             Text("Fresh Milk, On Demand")
+            
+            Image(systemName: "cloud.fill")
         }
         .padding()
     }
